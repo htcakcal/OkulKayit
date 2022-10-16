@@ -1,0 +1,8 @@
+E:\smart pro\11.10.2022\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.exe.config
+E:\smart pro\11.10.2022\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.exe
+E:\smart pro\11.10.2022\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.pdb
+E:\smart pro\11.10.2022\GenelAlistirma\GenelAlistirma\obj\Debug\OkulKaydı.csproj.AssemblyReference.cache
+E:\smart pro\11.10.2022\GenelAlistirma\GenelAlistirma\obj\Debug\OkulKaydı.csproj.SuggestedBindingRedirects.cache
+E:\smart pro\11.10.2022\GenelAlistirma\GenelAlistirma\obj\Debug\OkulKaydı.csproj.CoreCompileInputs.cache
+E:\smart pro\11.10.2022\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.exe
+E:\smart pro\11.10.2022\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.pdb

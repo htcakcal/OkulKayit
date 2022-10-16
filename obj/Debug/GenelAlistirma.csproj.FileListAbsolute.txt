@@ -1,0 +1,7 @@
+c:\users\hatice.akcal\source\repos\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.exe.config
+c:\users\hatice.akcal\source\repos\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.exe
+c:\users\hatice.akcal\source\repos\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.pdb
+c:\users\hatice.akcal\source\repos\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.csprojAssemblyReference.cache
+c:\users\hatice.akcal\source\repos\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.csproj.CoreCompileInputs.cache
+c:\users\hatice.akcal\source\repos\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.exe
+c:\users\hatice.akcal\source\repos\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.pdb
